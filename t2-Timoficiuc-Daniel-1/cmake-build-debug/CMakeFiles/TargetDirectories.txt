@@ -1,0 +1,3 @@
+C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/CMakeFiles/t2-Timoficiuc-Daniel-1.dir
+C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

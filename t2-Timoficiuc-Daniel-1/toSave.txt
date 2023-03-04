@@ -1,0 +1,3 @@
+Neonatal Unit  number of doc 10 number of patients 10 number of babies 20 average grade 9.000000 Efficient status 1
+Surgery  number of doc 10 number of patients 20 Efficient status 1
+Neonatal Unit  number of doc 10 number of patients 20 number of babies 19 average grade 7.000000 Efficient status 0

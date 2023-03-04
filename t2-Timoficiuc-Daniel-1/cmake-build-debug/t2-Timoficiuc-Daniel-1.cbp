@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="t2-Timoficiuc-Daniel-1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t2-Timoficiuc-Daniel-1">
+				<Option output="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/t2-Timoficiuc-Daniel-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+					<Add directory="/mingw/lib/gcc/mingw32/6.3.0/../../../../include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 t2-Timoficiuc-Daniel-1"/>
+					<CompileFile command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="t2-Timoficiuc-Daniel-1/fast">
+				<Option output="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/t2-Timoficiuc-Daniel-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+					<Add directory="/mingw/lib/gcc/mingw32/6.3.0/../../../../include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 t2-Timoficiuc-Daniel-1/fast"/>
+					<CompileFile command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/HospitalDepartment.cpp">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/HospitalDepartment.h">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/Interface.cpp">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/Interface.h">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/NeonatalUnit.cpp">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/NeonatalUnit.h">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/Service.cpp">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/Service.h">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/Surgery.cpp">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/Surgery.h">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/main.cpp">
+			<Option target="t2-Timoficiuc-Daniel-1"/>
+		</Unit>
+		<Unit filename="C:/Users/timod/OOP Projects/t2-Timoficiuc-Daniel-1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
