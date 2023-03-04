@@ -1,0 +1,9 @@
+robot,cop,100,47,https://goo.gl/images/GZ4gQB
+Dog,Dog2,2,51,https://www.purina.ro/sites/default/files/styles/nppe_breed_selector_og_image/public/breed_library/golden_retriever.jpg
+Rat,Dog3,7,52,https://as2.ftcdn.net/v2/jpg/02/13/20/03/500_F_213200366_CEHLufIVW8hMjngNUfkRjxZpeiCzkB5m.jpg
+Underdog,Dog4,4,53,https://www.mundoperros.es/wp-content/uploads/2017/03/corgi-gales-caminando-1024x575.jpg
+Dog,Dog5,9,54,https://pisicutesicaini.ro/wp-content/uploads/2021/06/Shiba-Inu-standing-in-profile-outdoors.jpg
+Underdog,Dog6,6,55,https://lenda.ro/wp-content/uploads/2021/07/bichon-1170x914.jpg
+Pig,Timmy the Dog,2,57,https://upload.wikimedia.org/wikipedia/commons/d/d0/German_Shepherd_-_DSC_0346_%2810096362833%29.jpg
+Cat,Myron,3,58,https://www.purina.ro/sites/default/files/styles/nppe_breed_selector_500/public/breed_library/labrador_retriever.jpg?itok=TMSB_so8
+otto,bichon,3,59,noLink
